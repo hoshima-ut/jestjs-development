@@ -1,0 +1,16 @@
+{
+  "name": "jestjs-development",
+  "version": "1.0.0",
+  "description": "https://jestjs.io/ja/docs/getting-started",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+  
+}
