@@ -6,7 +6,7 @@ https://jestjs.io/ja/docs/getting-started
 ```bash
 $ sh start.sh
 ```
-### 2. Running the app
+### 2. docker compose exec
 
 
 ```bash
